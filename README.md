@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Arya 👋🏻
+  Hi, I'm Arya 🌸
 </h1>
 
 <h3 align="center">
@@ -11,14 +11,13 @@
 </p>
 
 <p align="center">
+  •
   <a href="www.linkedin.com/in/arya-vishwakarma-840302377">LinkedIn</a>
   •
-
   <a href="aryavkarma5@gmail.com">Email</a>
 </p>
 
 ---
-
 ## ✦ About Me
 
 I'm a Computer Science student who enjoys combining
@@ -35,13 +34,9 @@ Currently exploring:
 
 ## ⚡ Tech Stack
 
-### Languages
-HTML • CSS • JavaScript • Python • Java • C
-
-### Tools
-Git • GitHub  • VS Code
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python,java,git,github,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -55,9 +50,18 @@ trip planning more intuitive and personalized.
 
 ## 📊 GitHub Stats
 
-[stats here]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arya-karma&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-karma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="YOUR_STREAK_CARD" />
+</p>
+
 
 ## 🌐 Let's Connect
 
