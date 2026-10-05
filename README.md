@@ -35,7 +35,7 @@ Currently exploring:
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python,java,git,github,vscode,notion" />
 </p>
 
 ## 🚀 Featured Projects
